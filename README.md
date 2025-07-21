@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00BFFF&width=435&lines=Hello,+World!+👋;My+name+is+Achmad...;I+love+to+build+things.;And+longlife+learner;Welcome+to+my+profile!&center=true" alt="Perfectly Centered Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmZDJ6M2ZyY2RpZHB2MHJvYjN1bHVmYXExaDZwMDhmdjl0d2xvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Banner" width="500"/>
-</p>
-
 <h3 align="center">Hey there, I'm <a href="https://github.com/Kazzpars">Kazzpars</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
@@ -16,6 +8,12 @@
    <a href="https://github.com/Kazzpars"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kazzpars?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
  </p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmZDJ6M2ZyY2RpZHB2MHJvYjN1bHVmYXExaDZwMDhmdjl0d2xvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Banner" width="500"/>
+</p>
+
+
 
 ---
 ## Profile Views
