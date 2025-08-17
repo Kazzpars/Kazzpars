@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, I'm <a href="https://github.com/Kazzpars">Ridwan</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/Kazzpars">Kazzpars</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 
