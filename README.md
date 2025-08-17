@@ -54,11 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KAZZPARS&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAZZPARS&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-<a href="[LINK_INSTAGRAM_KAMU](https://www.instagram.com/arch_1258/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="achmad-ig" height="30" width="40" /></a>
-</p>
